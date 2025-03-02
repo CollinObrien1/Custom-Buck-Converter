@@ -1,0 +1,33 @@
+Reference,Value,Part Number,Description,Qty,Footprint,Datasheet
+C1,2.2u,CL21A225KBFNNNE,Ceramic Capacitor,1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL21A225KBFNNNE_Spec.pdf
+C2,4.7u,GRM31CC72A475KE11K,Ceramic Capacitor,1,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CC72A475KE11-01.pdf
+C3,470u,100ZLH470MEFC16X31.5,Electrolytic Capacitor,1,Capacitor_THT:CP_Radial_D18.0mm_P7.50mm,https://www.rubycon.co.jp/wp-content/uploads/catalog-aluminum/ZLH.pdf
+C4,1u,GRM21BC72A105KE01L,Ceramic Capacitor,1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf
+"C5,C6,C7,C8",1u,TMCP1D105MTRF,Tantalum Decoupling Bypass Capacitor,4,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://www.vishay.com/docs/40179/tmcp.pdf
+C9,33p,C0805C330J1GACTU,Ceramic Capacitor,1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf
+C10,10u,F951C106MPAAQ2,Tantalum Bypass Capacitor,1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://datasheets.kyocera-avx.com/F95.pdf
+C11,220n,C0805C224K5RACTU,Ceramic Bypass Capacitor,1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
+C12,10u,GRM21BR61E106KA73L,Ceramic Bypass Capacitor,1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61E106KA73-01.pdf
+D1,SS310,SS310,Schottky Diode (Switching),1,Diode_SMD:D_SMA_Handsoldering,https://www.microdiode.com/uploadfiles//PDF/SS32-THRU-SS3200-SMA.pdf
+D2,US2AA,US2AA,Diode (Gate Driver),1,Diode_SMD:D_SMA_Handsoldering,https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+"D3,D4,D5,D6,D7",LTST-C150YKT,LTST-C150YKT,Yellow LED,5,LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1000/LTST-C150YKT.pdf
+"J1,J2,J3,J4,J5",BU-P72930-2,BU-P72930-2,Banana Connector 4mm,5,Connector:Banana_Jack_1Pin,https://www.muellerelectric.com/product_files/986/DS-BU-P72930-@.pdf
+"L1,L2",12m,1140-123K-RC,Inductor,2,1140-123K-RC:INDRD2921W163D3810H2616P,https://www.bourns.com/docs/Product-Datasheets/1140_series.pdf
+Q1,IRF540NPBF,IRF540NPBF,MOSFET (Switching),1,Package_TO_SOT_THT:TO-220-3_Vertical,https://www.infineon.com/dgdl/irf540npbf.pdf?fileId=5546d462533600a4015355e39f0d19a1
+"R1,R4",20k,RC0805FR-0720KL,Resistor,2,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+"R2,R3,R12,R13",1k,RMCF0805FT1K00,Resistor,4,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+"R5,R6",120R,RMCF0805FT120R,Resistor,2,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+R7,300R,RMCF0805JT300R,Resistor,1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+R8,51R,RC0805FR-0751RL,Resistor,1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+R9,12R,ERJ-P06J120V,Resistor,1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://industrial.panasonic.com/cdbs/www-data/pdf/RDO0000/AOA0000C331.pdf
+R10,6.8R,RCS08056R80FKEA,Resistor,1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,https://www.vishay.com/docs/20065/rcse3.pdf
+R11,50R,RCP1206W50R0GEB,Resistor,1,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.vishay.com/docs/31098/rcp.pdf
+U1,LM358AP,LM358AP,Active Power LPF Op-amp,1,LM358AP:DIP794W45P254L959H508Q8,https://www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1740785935033&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358
+U2,LAUNCHXL-F28379D,LAUNCHXL-F28379D,MCU Board,1,LAUNCHXL-F28379D:MOD_LAUNCHXL-F28379D,https://www.ti.com/lit/ug/sprui77c/sprui77c.pdf?ts=1740044994305&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FLAUNCHXL-F28379D
+U3,UCC5304DWVR,UCC5304DWVR,Gate Driver,1,UCC5304DWVR:SOIC8_DWV_TEX-L,https://www.ti.com/lit/ds/symlink/ucc5304.pdf?ts=1740073342321
+U4,TMV 0512SHI,TMV 0512SHI,Isolated Power Supply,1,TMV_0512SHI:TMV-HI_SINGLE_TRP,https://www.tracopower.com/products/tmv-hi.pdf
+N/A,N/A,507302B00000G,Heat Sink,1,N/A,https://info.boydcorp.com/hubfs/Thermal/Air-Cooling/Boyd-Board-Level-Heatsinks-Catalog.pdf
+N/A,N/A,4880G,Heat Sink Mounting Kit,1,N/A,https://info.boydcorp.com/hubfs/Thermal/Air-Cooling/Boyd-Board-Level-Heatsinks-Catalog.pdf
+N/A,N/A,61202021621,20-Pin Connector,4,N/A,https://www.we-online.com/components/products/datasheet/61202021621.pdf
+N/A,N/A,971100154,M2.5 Standoff,4,N/A,https://www.we-online.com/components/products/datasheet/971100154.pdf
+N/A,N/A,4707,M2.5 Nut,4,N/A,https://www.keyelco.com/userAssets/file/M65p135.pdf
